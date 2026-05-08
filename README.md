@@ -8,28 +8,29 @@ A full-stack HR Management System built with:
 - **AI Agent**: Google ADK + Gemini 2.5 Flash
 
 ## Project Structure
-hr-management-fullstack/
-├── backend/
-│   ├── config/
-│   ├── models/
-│   ├── routes/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── Dockerfile
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── package.json
-│   └── vite.config.js
-└── hr-agent/
-    ├── hr_data_assistant/
-    │   ├── agent.py
-    │   └── tools.py
-    ├── requirements.txt
-    └── Dockerfile
+
+    hr-management-fullstack/
+    ├── backend/
+    │   ├── config/
+    │   ├── models/
+    │   ├── routes/
+    │   ├── main.py
+    │   ├── requirements.txt
+    │   └── Dockerfile
+    ├── frontend/
+    │   ├── src/
+    │   │   ├── components/
+    │   │   ├── services/
+    │   │   ├── App.jsx
+    │   │   └── main.jsx
+    │   ├── package.json
+    │   └── vite.config.js
+    └── hr-agent/
+        ├── hr_data_assistant/
+        │   ├── agent.py
+        │   └── tools.py
+        ├── requirements.txt
+        └── Dockerfile
 
 ## Features
 - Employee management (Add, Edit, Delete, Search)
