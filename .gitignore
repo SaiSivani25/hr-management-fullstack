@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+
+# GCP credentials
+credentials.json
+
+# ADK
+.adk/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
