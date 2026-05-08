@@ -137,3 +137,4 @@ GOOGLE_APPLICATION_CREDENTIALS=../backend/credentials.json
 | industry | STRING |
 | employee_count | INTEGER |
 | annual_revenue | FLOAT |
+
